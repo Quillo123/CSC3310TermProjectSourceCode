@@ -1,0 +1,13 @@
+System.out.println("\n********* MENU *********");
+            System.out.println("\n1.Insert In End");
+            System.out.println("\n2.Insert In Beg");
+            System.out.println("\n3.Insert At A  Particular Pos");
+            System.out.println("\n4.Delete At a Pos");
+            System.out.println("\n5.Length");
+            System.out.println("\n6.Reverse");
+            System.out.println("\n7.Display");
+            System.out.println("\n8.Display Previous At a Pos");
+             System.out.println("\n9.Display Next At a Pos");
+            System.out.println("\n10.Insert List of Primes");
+            System.out.println("\n11.EXIT");
+            System.out.println("\nenter ur choice : ");
